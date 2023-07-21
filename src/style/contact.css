@@ -1,0 +1,25 @@
+.form{
+    display: flex;
+    flex-direction: column;
+}
+.i{
+    padding: 15px;
+    outline: none;
+    margin: 25px;
+    border-bottom: 1px solid black;
+    font-weight: 600;
+    color: black;
+    font-size: medium;
+}
+.s{
+    margin-bottom: 25px;
+}
+button{
+    width: 250px;
+}
+.texti{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}

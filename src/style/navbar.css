@@ -1,0 +1,15 @@
+.link:hover{
+    color: #00df9a;
+    transition: .5s;
+}
+
+@media only screen and (min-width:350px) {
+
+    .logo{width: 60px;}
+    .logo{height: 60px;}
+}
+@media only screen and (min-width:350px) {
+
+    .logoiki{width: 60px;}
+    .logoiki{height: 60px;}
+}
